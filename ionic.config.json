@@ -1,0 +1,7 @@
+{
+  "name": "testAppflow",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
